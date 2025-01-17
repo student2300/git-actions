@@ -5,5 +5,5 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-        - name: ;23f2000959@ds.study.iitm.ac.in' is testing out GitHub Actions 🚀
+        - name: 23f2000959@ds.study.iitm.ac.in' is testing out GitHub Actions 🚀
           run: echo "Hello, GitHub Actions!"
